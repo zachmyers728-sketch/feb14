@@ -85,28 +85,28 @@
 </head>
 <body>
   <div class="card" id="step1">
-    <h1>Hey you.</h1>
+    <h1>Hi pookiee!.</h1>
     <p>
-      I know we’re not in the same place right now,
-      but you’ve still been the person on my mind every day.
+      Being far from you everyday is really hard,
+      but you really make it worth it
     </p>
     <button onclick="nextStep()">Continue</button>
   </div>
 
   <div class="card hidden" id="step2">
     <p>
-      I wanted to do something instead of just saying something.
-      Something you could open and feel.
+      I love you so much
+      and I cant wait to come visit you
     </p>
     <button onclick="finalStep()">One more thing</button>
   </div>
 
   <div class="card hidden" id="step3">
     <div class="heart">❤️</div>
-    <h1>Be my Valentine?</h1>
+    <h1>Will you be my Valentine?</h1>
     <p>
-      Not just for the day.
-      But because it’s you.
+      I'm so glad I get to come and see you,
+      whether your studying or we're out watching monster trucks
     </p>
   </div>
 
